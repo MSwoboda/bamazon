@@ -36,7 +36,7 @@ INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Plate of Candy Corn", "Sport Equipment", 0.50, 3200);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
-VALUES ("Scented Candles", "Home Entertainment", 520.10, 90);
+VALUES ("Cat Scented Candles", "Home Entertainment", 520.10, 90);
 
 INSERT INTO products (product_name, department_name, price, stock_quantity)
 VALUES ("Dog Scented Candles", "Home Entertainment", 25.90, 1000);
